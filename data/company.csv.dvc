@@ -1,0 +1,5 @@
+outs:
+- md5: aa0cbdbc954621f50199403358ae8014
+  size: 345
+  hash: md5
+  path: company.csv
